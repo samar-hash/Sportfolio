@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/Sportfolio/static/media/sun.5039864c.svg"
   },
   {
-    "revision": "d851a5ab1b2c9499ab09ac1c06677cbd",
+    "revision": "03277b02198c361aec840f3996fd3e0c",
     "url": "/Sportfolio/index.html"
   }
 ];
