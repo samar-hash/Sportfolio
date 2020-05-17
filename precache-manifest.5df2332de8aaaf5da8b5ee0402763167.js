@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "633a8ab72c5153b4d32c",
+    "revision": "368be1955297f6f31bc2",
     "url": "/Sportfolio/static/css/main.61aa9d48.chunk.css"
   },
   {
-    "revision": "633a8ab72c5153b4d32c",
-    "url": "/Sportfolio/static/js/main.516b9e71.chunk.js"
+    "revision": "368be1955297f6f31bc2",
+    "url": "/Sportfolio/static/js/main.765caeb4.chunk.js"
   },
   {
     "revision": "435494d7380d011c05df",
     "url": "/Sportfolio/static/js/runtime~main.69b2921e.js"
   },
   {
-    "revision": "13e289861bef1bcc1e7f",
+    "revision": "567bc5b99b147b9d566b",
     "url": "/Sportfolio/static/css/2.0f1611b1.chunk.css"
   },
   {
-    "revision": "13e289861bef1bcc1e7f",
-    "url": "/Sportfolio/static/js/2.26951121.chunk.js"
+    "revision": "567bc5b99b147b9d566b",
+    "url": "/Sportfolio/static/js/2.ecaf535e.chunk.js"
   },
   {
     "revision": "e9fa4a7f526e0871925be06a2b3c58ab",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/Sportfolio/static/media/sun.5039864c.svg"
   },
   {
-    "revision": "9f738c19cc83d52d6006023a081887aa",
+    "revision": "6197b6bfdf6e901672ff13a1cc555229",
     "url": "/Sportfolio/index.html"
   }
 ];
