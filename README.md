@@ -1,3 +1,1 @@
-# Sportfolio
-#https://samar-hash.github.io/Sportfolio/
-front end portfolio
+# portfolio  https://samar-hash.github.io/Sportfolio/
